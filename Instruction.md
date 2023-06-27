@@ -12,3 +12,9 @@
 git config --global user.name "Ваше имя английскими буквами"
 git config --global user.email почта@example.com
 ```
+## 4. Инициализация репозитория 
+git init + описание как создается репозиторий
+## 5. Запись изменений в репозиторий
+git status git add git commit git commit -a -m git diff
+## 6. Просмотр истории коммитов
+## 7. Перемещение между сохранениями
